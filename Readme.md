@@ -1,3 +1,7 @@
+<p align="center">
+<img src="resources/calc.JPG" alt="drawing"/>
+</p>
+
 # **SmartCalc** for macOS
 
 ## General information
